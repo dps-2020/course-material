@@ -1,12 +1,29 @@
-# Initial Reading list to work from
+# Readings from Books and other Resources
 
-## Open Issues
-1. Add Joe's books
-1. Review each entry for updated books
-1. Do we do ebooks or both
 
-## Previous Reading list
+## Books we will use
 
+1. Java Book - An Introduction to Problem Solving and Programming (8th Edition) 8th Edition Walter Savitch 
+1. Learning Agile - https://www.amazon.com/Learning-Agile-Understanding-Scrum-Kanban/dp/1449331920
+1. Agile Software Development with Distributed Teams - https://www.amazon.com/Agile-Software-Development-Distributed-Teams/dp/0932633714
+1. Fearless Change - https://www.amazon.com/Fearless-Change-Patterns-Introducing-Ideas/dp/0201741571/ref=sr_1_1?s=books&ie=UTF8&qid=1502382898&sr=1-1&keywords=Fearless+Change%3A+Patterns+for+Introducing+New+Ideas
+1. Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing, 5th Edition - https://www.amazon.com/Ethics-Technology-Controversies-Questions-Strategies-ebook/dp/B01AKSZAE2/ref=sr_1_1?ie=UTF8&qid=1502383605&sr=8-1&keywords=tavani
+1. https://www.amazon.com/Testing-Junit-Frank-Appel/dp/1782166602/ref=sr_1_1?s=books&ie=UTF8&qid=1502397853&sr=1-1&keywords=frank+Appel
+
+
+
+
+## Current Topic Reading (Optional)
+
+1. The Art and Science of Analyzing Software Data by Christian Bird Paperback 
+1. Perspectives on Data Science for Software Engineering by Tim Menzies Paperback 
+1. Sharing Data and Models in Software Engineering by Tim Menzies Paperback 
+1. Polymorphism - https://www.amazon.com/Polymorphism-Played-Joseph-Bergin-PhD/dp/1940113059/ref=asap_bc?ie=UTF8
+1. Polymorphism Companion https://www.amazon.com/Polymorphism-Companion-Joseph-Bergin-Ph-D/dp/1940113067/ref=asap_bc?ie=UTF8
+
+## Optional Reading list (Optional)
+
+1. Java: An Introduction to Problem Solving and Programming (8th Edition) 8th Edition
 1. Extreme Programing," Beck, eXtreme Programming explained, 2nd edition Addison Wesley, 2005 "
 1. The Mythical Man Month ,"Brooks, The Mythical Man Month - Anniversary Edition, Addison Wesley 1995 "
 1. Agile Software Development,"Agile Software Development,  Cockburn"
@@ -33,3 +50,9 @@
 1. Open Source,http://csis.pace.edu/~grossman/dcs/gabriel_open_source/handbook.pdf
 1. Introducing New Ideas into Organization","Crossing the Chasm, Moore"
 1. Agile Software Development,"Implement Lean Software Development, Popendieck"
+
+
+## Useful Links
+
+1. https://www.packtpub.com/application-development/testing-junit
+1. http://junit.sourceforge.net/doc/cookbook/cookbook.htm
